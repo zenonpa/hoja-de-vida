@@ -35,4 +35,4 @@ La solución garantiza la máxima seguridad mediante:
 * **Decisión Basada en Datos:** Modelos de Machine Learning que aprenden del histórico para predecir fluctuaciones cambiarias.
 
 ---
-*Este documento es de carácter confidencial y para uso exclusivo de la gerencia de Servicios Generales Electricidad y Pintura K & S S.A.C.S.*
+*
